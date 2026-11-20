@@ -83,6 +83,9 @@ text <br>
 <p align="center">
 made by my bf. follow <a href="https://github.com/vilicaleb">@vilicaleb</a> NOWWWW!!!!!!!!!!
 
+<p align="center">
+<a href="https://hits.sh/github.com/pr1nceisaiah/hits/"><img alt="Hits" src="https://hits.sh/github.com/pr1nceisaiah/hits.svg?style=flat-square&label=building%20!!&color=455d6e&labelColor=707f92"/></a>
+
 <br><br>
 
 <img width="2000" alt="image" src="https://github.com/user-attachments/assets/7f8250c5-1726-4fbe-bf28-bf888294fcf6" />
