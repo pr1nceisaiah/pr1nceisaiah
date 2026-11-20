@@ -65,8 +65,10 @@ ${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
 
 <br><br>
 
-<hr>
-<br>
-
 <p align="center">
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/52a25e76-6d40-4ab9-a2d3-dc215148641a" />
+
+<br><br>
+
+<img width="2000" height="1056" alt="image" src="https://github.com/user-attachments/assets/7f8250c5-1726-4fbe-bf28-bf888294fcf6" />
+
