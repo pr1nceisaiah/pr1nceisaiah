@@ -12,7 +12,22 @@ ${{\color{#264160}\normalsize{\textsf{⠀⠀⠀⠀ഒ۫  ִ ࣪ ˖ ࣪ ᨰꫀᥣ
 
 <br><br>
 
-${{\color{#264160}\Huge{\textsf{⠀၇ৎ ִ ࣪ ˖⠀byi⠀⠀𓎢𓎠𓎡⠀}}}}$ <br>
+<div align="left"> <details>
+<summary>${{\color{#264160}\Huge{\textsf{⠀၇ৎ ִ ࣪ ˖⠀byi⠀⠀𓎢𓎠𓎡⠀}}}}$</summary> 
+<br>
+
+${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
+
+${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
+
+${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
+
+${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
+
+${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
+
+<br>
+</details>
 
 <br><br>
 
