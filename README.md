@@ -81,7 +81,7 @@ text <br>
 <br><br>
 
 <p align="center">
-made by my bf. follow [@vilicaleb](https://github.com/vilicaleb) NOWWWW!!!!!!!!!!
+made by my bf. follow <a href="https://github.com/vilicaleb">@vilicaleb</a> NOWWWW!!!!!!!!!!
 
 <br><br>
 
