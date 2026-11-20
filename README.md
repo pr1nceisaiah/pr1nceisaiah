@@ -81,6 +81,9 @@ text <br>
 <br><br>
 
 <p align="center">
+fonts from https://fontgenonline.com/pretty-fonts/ in the pretty mix category i think.
+
+<p align="center">
 made by my bf. follow <a href="https://github.com/vilicaleb">@vilicaleb</a> NOWWWW!!!!!!!!!!
 
 <p align="center">
