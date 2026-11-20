@@ -42,6 +42,7 @@ ${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
 ${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
 
 <br>
+</details>
 
 <br><br>
 
