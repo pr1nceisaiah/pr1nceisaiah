@@ -10,6 +10,9 @@ ${{\color{#264160}\normalsize{\textsf{⠀⠀˖⠀⠀𐬆isaiah 𐬢 ۫ ⠀⠀ִ�
 <p align="center">
 ${{\color{#264160}\normalsize{\textsf{⠀⠀⠀⠀ഒ۫  ִ ࣪ ˖ ࣪ ᨰꫀᥣᥴ᥆ꩇꫀ⠀! ᰔ⠀⠀⠀  ˗͜˗˗˗͜˗ ⊹}}}}$ <br>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=15000&pause=1000&color=264160&width=435&lines=there+is+still+time." alt="Typing SVG" /></a>
+
 <br><br>
 
 <div align="left"> <details>
