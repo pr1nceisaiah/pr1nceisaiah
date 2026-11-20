@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/ed959abd-2c0e-4adf-bda1-1c4130bcd885" />
+<img width="2000" alt="image" src="https://github.com/user-attachments/assets/ed959abd-2c0e-4adf-bda1-1c4130bcd885" />
 
 <br>
 
@@ -70,5 +70,5 @@ ${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
 
 <br><br>
 
-<img width="2000" height="1056" alt="image" src="https://github.com/user-attachments/assets/7f8250c5-1726-4fbe-bf28-bf888294fcf6" />
+<img width="2000" alt="image" src="https://github.com/user-attachments/assets/7f8250c5-1726-4fbe-bf28-bf888294fcf6" />
 
