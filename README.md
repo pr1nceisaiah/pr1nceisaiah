@@ -87,7 +87,7 @@ fonts from https://fontgenonline.com/pretty-fonts/ in the pretty mixed category 
 spotify widget <33 you have to connect ur spotify acc hehe https://spotify-github-profile.kittinanx.com/api/login
 
 <p align="center">
-made by my cool cute and tuff bf <a href="https://github.com/vilicaleb">@vilicaleb</a> follow or caleb will tickle ur feet /j
+made by my cool cute and tuff bf <a href="https://github.com/vilicaleb">@vilicaleb</a> follow or caleb will tickle ur feet /j <br>
 <sub>change the credits… im joking</sub>
 <p align="center">
 <a href="https://hits.sh/github.com/pr1nceisaiah/hits/"><img alt="Hits" src="https://hits.sh/github.com/pr1nceisaiah/hits.svg?style=flat-square&label=building%20!!&color=455d6e&labelColor=707f92"/></a>
