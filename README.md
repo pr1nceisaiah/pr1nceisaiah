@@ -13,7 +13,7 @@ ${{\color{#264160}\normalsize{\textsf{⠀⠀⠀⠀ഒ۫  ִ ࣪ ˖ ࣪ ᨰꫀᥣ
 <br><br>
 
 <div align="left"> <details>
-<summary>${{\color{#264160}\Huge{\textsf{⠀၇ৎ ִ ࣪ ˖⠀byi⠀⠀𓎢𓎠𓎡⠀}}}}$</summary> 
+<summary>${{\color{#264160}\Huge{\textsf{⠀၇ৎ ִ ࣪ ˖⠀byi⠀⠀𓎢𓎠𓎡⠀}}}}$</summary>
 <br>
 
 ${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
@@ -30,6 +30,23 @@ ${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
 </details>
 
 <br><br>
+
+<div align="right"> <details>
+<summary>${{\color{#264160}\Huge{\textsf{⠀dni    ࿐⠀}}}}$</summary>
+<br>
+
+${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
+
+${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
+
+${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
+
+${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
+
+${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
+
+<br>
+</details>
 
 <p align="center">
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/52a25e76-6d40-4ab9-a2d3-dc215148641a" />
