@@ -77,6 +77,11 @@ text <br>
 
 <br><br>
 
+<p align="center">
+made by my bf. follow [@vilicaleb](https://github.com/vilicaleb) NOWWWW!!!!!!!!!!
+
+<br><br>
+
 <img width="2000" alt="image" src="https://github.com/user-attachments/assets/7f8250c5-1726-4fbe-bf28-bf888294fcf6" />
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/72b7f4cb-411d-495c-948f-5e7369e009d3" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b0531eb4-f6de-417d-ac4a-f3c749439ad7" />
