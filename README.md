@@ -84,6 +84,9 @@ text <br>
 fonts from https://fontgenonline.com/pretty-fonts/ in the pretty mixed category i think.
 
 <p align="center">
+spotify widget <33 you have to connect ur spotify acc hehe https://spotify-github-profile.kittinanx.com/api/login
+
+<p align="center">
 made by my bf. follow <a href="https://github.com/vilicaleb">@vilicaleb</a> NOWWWW!!!!!!!!!!
 
 <p align="center">
