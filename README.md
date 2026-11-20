@@ -1,7 +1,7 @@
 <p align="center">
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/ed959abd-2c0e-4adf-bda1-1c4130bcd885" />
 
-<br><br>
+<br>
 
 <p align="center">
 ${{\color{#264160}\Huge{\textsf{⠀𓎢𓎠𓎡⠀⠀p𝓇𝓲ŋ𝒸𝓮ʑ𝒶𝓶⠀⠀𓎢𓎠𓎡⠀}}}}$ <br>
