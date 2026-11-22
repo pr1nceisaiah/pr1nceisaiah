@@ -36,8 +36,8 @@ ${{\color{#264160}\tiny{\textsf{unless my status says so!}}}}$ <br>
 
 ${{\color{#264160}\tiny{\textsf{u can call me isaiah or bun idm}}}}$ <br>
 ${{\color{#264160}\tiny{\textsf{i strictly go by genderneutral terms ONLY!!}}}}$ <br>
-
-${{\color{#264160}\tiny{\textsf{im}}}}$ <br>
+${{\color{#264160}\tiny{\textsf{im a minor}}}}$ <br>
+${{\color{#264160}\tiny{\textsf{-12 or 16+ PLZ IWVEC!!}}}}$ <br>
 
 <br>
 </details>
@@ -48,15 +48,11 @@ ${{\color{#264160}\tiny{\textsf{im}}}}$ <br>
 <summary>${{\color{#264160}\Huge{\textsf{⠀dni    ࿐⠀}}}}$</summary>
 <br>
 
-${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
+${{\color{#264160}\tiny{\textsf{i block freely}}}}$ <br>
+${{\color{#264160}\tiny{\textsf{dni chance yumes, im nsharing}}}}$ <br>
+${{\color{#264160}\tiny{\textsf{basic criteria}}}}$ <br>
+<img width="176" height="260" alt="pony-town-healingzam-dance move 5-blinking-padded-4x" src="https://github.com/user-attachments/assets/3777f77a-1ace-4ac0-a8e3-89b49d7a99a5" />
 
-${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
-
-${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
-
-${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
-
-${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
 
 <br>
 </details>
@@ -69,14 +65,11 @@ ${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
 <br><br>
 
 <p align="center">
-put other info, blinkies/stamps, or funny memes heh
-text <br>
-text <br>
+<img width="176" height="260" alt="pony-town-healingzam-dance move 5-blinking-padded-4x" src="https://github.com/user-attachments/assets/66bf835b-ae6a-4c3c-8433-18d4f1ea0827" />
+
 
 <br><br>
 
-<p align="center">
-fonts from https://fontgenonline.com/pretty-fonts/ in the pretty mixed category i think.
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
