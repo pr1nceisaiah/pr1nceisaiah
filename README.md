@@ -94,7 +94,7 @@ fonts from https://fontgenonline.com/pretty-fonts/ in the pretty mixed category 
 <p align="center">
 gifted by my bf.. ILY!!!!!! <a href="https://github.com/vilicaleb">@vilicaleb</a> plz follow him :p <br>
 <p align="center">
-<a href="https://hits.sh/github.com/pr1nceisaiah/hits/"><img alt="Hits" src="https://hits.sh/github.com/pr1nceisaiah/hits.svg?style=flat-square&label=building%20!!&color=455d6e&labelColor=707f92"/></a>
+<a href="https://hits.sh/github.com/pr1nceisaiah/hits/"><img alt="Hits" src="https://hits.sh/github.com/pr1nceisaiah.svg?label=moe%20moe%20kyun%20kyun&color=90a4ca&labelColor=7687a8"/></a>
 
 <br><br>
 
