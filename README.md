@@ -51,7 +51,6 @@ ${{\color{#264160}\tiny{\textsf{-12 or 16+ PLZ IWVEC!!}}}}$ <br>
 ${{\color{#264160}\tiny{\textsf{i block freely}}}}$ <br>
 ${{\color{#264160}\tiny{\textsf{dni chance yumes, im nsharing}}}}$ <br>
 ${{\color{#264160}\tiny{\textsf{basic criteria}}}}$ <br>
-<img width="176" height="260" alt="pony-town-healingzam-dance move 5-blinking-padded-4x" src="https://github.com/user-attachments/assets/3777f77a-1ace-4ac0-a8e3-89b49d7a99a5" />
 
 
 <br>
