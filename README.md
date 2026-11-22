@@ -84,11 +84,15 @@ text <br>
 fonts from https://fontgenonline.com/pretty-fonts/ in the pretty mixed category i think.
 
 <p align="center">
-spotify widget <33 you have to connect ur spotify acc hehe https://spotify-github-profile.kittinanx.com/api/login
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313ydyozdrshu47tzd7ouelv7ubm&cover_image=true&theme=default&show_offline=true&background_color=51749a&interchange=true&profanity=false&hide_remaster=false&bar_color=719dcc&bar_color_cover=false">
+  </a>
+</p>
+  </a>
+</p>
 
 <p align="center">
-made by my cool cute and tuff bf <a href="https://github.com/vilicaleb">@vilicaleb</a> follow or caleb will tickle ur feet /j <br>
-<sub>change the credits… im joking</sub>
+gifted by my bf.. ILY!!!!!! <a href="https://github.com/vilicaleb">@vilicaleb</a> plz follow him :p <br>
 <p align="center">
 <a href="https://hits.sh/github.com/pr1nceisaiah/hits/"><img alt="Hits" src="https://hits.sh/github.com/pr1nceisaiah/hits.svg?style=flat-square&label=building%20!!&color=455d6e&labelColor=707f92"/></a>
 
