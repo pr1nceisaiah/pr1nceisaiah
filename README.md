@@ -19,15 +19,11 @@ ${{\color{#264160}\normalsize{\textsf{⠀⠀⠀⠀ഒ۫  ִ ࣪ ˖ ࣪ ᨰꫀᥣ
 <summary>${{\color{#264160}\Huge{\textsf{⠀၇ৎ ִ ࣪ ˖⠀byi⠀⠀𓎢𓎠𓎡⠀}}}}$</summary>
 <br>
 
-${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
-
-${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
-
-${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
-
-${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
-
-${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
+${{\color{#264160}\tiny{\textsf{im always offtab}}}}$ <br>
+${{\color{#264160}\tiny{\textsf{so pls w2i always!}}}}$ <br>
+${{\color{#264160}\tiny{\textsf{i dont rlly int first}}}}$ <br>
+${{\color{#264160}\tiny{\textsf{BUT i dont mind cuddles}}}}$ <br>
+${{\color{#264160}\tiny{\textsf{unless my status says so!}}}}$ <br>
 
 <br>
 </details>
@@ -38,11 +34,10 @@ ${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
 <summary>${{\color{#264160}\Huge{\textsf{`♡⃘`﹙  💍  ݁   about me    ໋ 𓏺𓏺}}}}$</summary>
 <br>
 
-${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
+${{\color{#264160}\tiny{\textsf{u can call me isaiah or bun idm}}}}$ <br>
+${{\color{#264160}\tiny{\textsf{i strictly go by genderneutral terms ONLY!!}}}}$ <br>
 
-${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
-
-${{\color{#264160}\tiny{\textsf{text text}}}}$ <br>
+${{\color{#264160}\tiny{\textsf{im}}}}$ <br>
 
 <br>
 </details>
