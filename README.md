@@ -38,6 +38,7 @@ ${{\color{#264160}\tiny{\textsf{u can call me isaiah or bun idm}}}}$ <br>
 ${{\color{#264160}\tiny{\textsf{i strictly go by genderneutral terms ONLY!!}}}}$ <br>
 ${{\color{#264160}\tiny{\textsf{im a minor}}}}$ <br>
 ${{\color{#264160}\tiny{\textsf{-12 or 16+ PLZ IWVEC!!}}}}$ <br>
+${{\color{#264160}\tiny{\textsf{for more info, read my links!}}}}$ <br>
 
 <br>
 </details>
